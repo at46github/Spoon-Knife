@@ -11,11 +11,7 @@
 
 p {
   display: block;
-<<<<<<< HEAD
   width: 600px;
-=======
-  width: 400px;
->>>>>>> parent of e0bb811... changed width
   margin: 50px auto;
   font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
